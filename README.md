@@ -48,9 +48,9 @@ You can download the files [here](https://drive.google.com/open?id=1sfcOviwrgdNj
 
 This program was written in Python and relies on the following libraries:
 
-pandas
-numpy
-Click
+* pandas
+* numpy
+* Click
 
 ## Project 3
 
